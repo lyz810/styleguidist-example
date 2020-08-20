@@ -1,6 +1,8 @@
 module.exports = {
 	title: 'React Style Guide Example',
 	defaultExample: true,
+	usageMode: 'expand',
+	exampleMode: 'collpapse',
 	webpackConfig: {
 		module: {
 			rules: [
